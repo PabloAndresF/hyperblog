@@ -2,6 +2,6 @@
 int main()
 {
     /*dddddddddddddddddddddddddddd*/
-printf ("Hello moto ");
+printf ("Hello student ");
 return 0;
 }
