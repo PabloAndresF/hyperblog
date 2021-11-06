@@ -1,4 +1,4 @@
-# hyperblog 💚💚💚💚
+# Hyperblog 💚💚💚💚
 Un blog increible para el curso de Git y Github de Platzi
 
 ## En este curso vemos de todo
