@@ -1,4 +1,4 @@
-# hyperblog
+# hyperblog 💚💚💚💚
 Un blog increible para el curso de Git y Github de Platzi
 
 ## En este curso vemos de todo
@@ -8,7 +8,7 @@ Un blog increible para el curso de Git y Github de Platzi
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por el increible Platzi Team
-* Incluye ejepmlos en Windows,Linux y Mac 
+* Incluye ejepmlos en Windows,Linux y Mac
 * Disponible para todas las edades
 
 
