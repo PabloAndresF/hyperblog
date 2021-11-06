@@ -1,6 +1,6 @@
 *.jpg
 *.webp
 *.html
-*exe
-*ast_files
-*css
+*.exe
+*.ast_files
+*.css
